@@ -35,7 +35,7 @@ El objetivo es automatizar la atención al cliente resolviendo consultas sobre:
 #### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/usuario/proyecto_chatbot_coper.git
+git clone https://github.com/AlonsoL-bit/proyecto_chatbot_coper.git
 cd proyecto_chatbot_coper
 ```
 
