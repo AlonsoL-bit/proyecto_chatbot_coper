@@ -1,0 +1,89 @@
+# === ENTORNO VIRTUAL ===
+venv/
+env/
+ENV/
+.venv
+.env.venv
+
+# === VARIABLES DE ENTORNO ===
+.env
+.env.local
+.env.*.local
+.env.production
+
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# === IDE y EDITOR ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# === STREAMLIT ===
+.streamlit/
+streamlit_logger.log
+
+# === PYTEST ===
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+*.cover
+.hypothesis/
+
+# === JUPYTER ===
+.ipynb_checkpoints
+*.ipynb
+
+# === ARCHIVOS DE SISTEMA ===
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# === LOGS ===
+*.log
+logs/
+
+# === TEMPORAL ===
+*.tmp
+*.temp
+*.backup
+*~
+.~*
+
+# === DEPENDENCIAS ===
+.pip-cache/
+pip-log.txt
+pip-delete-this-directory.txt
